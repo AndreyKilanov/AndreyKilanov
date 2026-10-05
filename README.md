@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=760&lines=Backend+Developer+%C2%B7+Tech+Lead+%C2%B7+AI+Automation;Python+%C2%B7+FastAPI+%C2%B7+Django+%C2%B7+Flask+%C2%B7+aiohttp;AI+agents+%C2%B7+LangChain+%C2%B7+LangGraph+%C2%B7+RAG+%C2%B7+LiveKit;PostgreSQL+%C2%B7+pgvector+%C2%B7+MongoDB+%C2%B7+Redis+%C2%B7+Elasticsearch;Microservices+%C2%B7+REST+%C2%B7+WebSockets+%C2%B7+Celery+%C2%B7+asyncio;Docker+%C2%B7+GitLab+CI%2FCD+%C2%B7+Nginx+%C2%B7+Traefik+%C2%B7+Keycloak+%C2%B7+Vault;Grafana+%C2%B7+Prometheus+%C2%B7+Loki+%C2%B7+pytest+%C2%B7+testcontainers;Rust+%2B+PyO3+tinkerer" alt="Typing SVG">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AndreyKilanov&style=for-the-badge&color=3b82f6&label=PROFILE+VIEWS" alt="Profile views">
-</p>
-
 ## About me
 
 I lead development and write code myself: I take products from an idea to a working MVP and production, and grow
@@ -26,6 +22,12 @@ business**, so for every task I ask not only "how to build it" but also "why do 
 - **Search at scale:** a parser and search over **10M+ documents** on Elasticsearch and MongoDB with configurable
   notifications.
 - **Team first:** code reviews, mentoring, sprint planning and architecture discussions.
+
+## Open source
+
+Currently working on **[logfold](https://github.com/AndreyKilanov/logfold)**: a Python library and CLI with a Rust
+core (MIT, available on [PyPI](https://pypi.org/project/logfold/)). It folds large unstructured logs into templates,
+counts them and compares two runs, with bounded memory regardless of file size.
 
 ## Tech stack
 
@@ -71,5 +73,5 @@ business**, so for every task I ask not only "how to build it" but also "why do 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndreyKilanov&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=3b82f6&point_color=ffffff" alt="Activity graph">
+  <img src="https://komarev.com/ghpvc/?username=AndreyKilanov&style=flat-square&color=3b82f6&label=PROFILE+VIEWS" alt="Profile views">
 </p>
