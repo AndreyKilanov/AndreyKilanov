@@ -1,25 +1,8 @@
 <h1 align="center">Hi, I'm Andrey Kilanov 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/AndreyKilanov/logfold">
-    <img src="https://raw.githubusercontent.com/AndreyKilanov/logfold/main/docs/assets/logo.png" alt="logfold" width="160">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=560&lines=Python+backend+developer;Rust+%2B+PyO3+tinkerer" alt="Typing SVG">
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=560&lines=Python+backend+developer;Rust+%2B+PyO3+tinkerer;Author+of+logfold;Fold+your+logs%2C+diff+your+runs" alt="Typing SVG">
-</p>
-
-<p align="center">
-  <a href="https://pypi.org/project/logfold/"><img src="https://img.shields.io/pypi/v/logfold?style=for-the-badge&logo=pypi&logoColor=white&label=logfold&color=3775A9" alt="PyPI"></a>
-  <a href="https://github.com/AndreyKilanov/logfold/actions"><img src="https://img.shields.io/github/actions/workflow/status/AndreyKilanov/logfold/ci.yml?branch=main&style=for-the-badge&logo=githubactions&logoColor=white&label=CI" alt="CI"></a>
-  <a href="https://github.com/AndreyKilanov/logfold/stargazers"><img src="https://img.shields.io/github/stars/AndreyKilanov/logfold?style=for-the-badge&logo=github&color=yellow" alt="Stars"></a>
-</p>
-
-## 🚀 Featured project
-
-**[logfold](https://github.com/AndreyKilanov/logfold)** is a Python library and CLI with a Rust core. It folds large
-unstructured logs into templates, counts them and compares two runs.
 
 ## 🛠️ Tech stack
 
