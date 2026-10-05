@@ -62,5 +62,6 @@ logistics business**, so for every task I ask not only "how to build it" but als
 ## GitHub stats
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=AndreyKilanov&theme=github-dark&hide_border=true" alt="Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyKilanov&layout=compact&theme=github_dark&hide_border=true" alt="Top languages">
 </p>
