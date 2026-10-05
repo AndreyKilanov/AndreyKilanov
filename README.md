@@ -8,7 +8,7 @@
 
 I lead development and write code myself: I take products from an idea to a working MVP and production, and grow
 together with the team. I have **4+ years of development experience**, and before that I spent **11 years running my own
-logistics business**, so for every task I ask not only "how to build it" but also "why do people and the business need it".
+business**, so for every task I ask not only "how to build it" but also "why do people and the business need it".
 
 - **Built a B2B freight platform from scratch in 3 months** with a team of 7: a marketplace where customers find
   carriers, and companies work safely with drivers, vehicles and documents. Designed the microservice architecture and
